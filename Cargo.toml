@@ -18,6 +18,10 @@ path = "src/fundamentals/data_types.rs"
 name = "functions"
 path = "src/fundamentals/functions.rs"
 
+[[bin]]
+name = "control_flow"
+path = "src/fundamentals/control_flow.rs"
+
 
 [[bin]]
 name = "guessing-game"
